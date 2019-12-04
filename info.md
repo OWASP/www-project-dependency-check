@@ -1,17 +1,55 @@
-### dependency check Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Project Classification
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
 
-### Code Repository
-* [repo](#)
+![Builders](/assets/images/common/owasp_builders.svg)
+![Defenders](assets/images/common/owasp_defenders.svg)
 
-### Change Log
-* [changes](#)
+![Tool Project](/assets/images/common/owasp_tool_project.svg)
 
+### Downloads
+
+Version 5.2.4
+* [Command Line](https://dl.bintray.com/jeremy-long/owasp/dependency-check-5.2.4-release.zip)
+* [Ant Task](https://dl.bintray.com/jeremy-long/owasp/dependency-check-ant-5.2.4-release.zip)
+* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C5.2.4%7Cmaven-plugin)
+* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C5.2.4%7Cgradle-plugin)
+* [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
+
+Other Plugins
+* [Jenkins Plugin](https://plugins.jenkins.io/dependency-check-jenkins-plugin)
+* [SBT Plugin](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22net.vonbuchholtz%22%20a%3A%22sbt-dependency-check%22)
+* [lein-dependency-check](https://github.com/livingsocial/lein-dependency-check)
+
+### Integrations
+
+* [SonarQube Plugin](https://github.com/SonarSecurityCommunity/dependency-check-sonar-plugin)
+* [Circle CI Orb](https://github.com/entur/owasp-orb)
+
+### External Resources
+
+* [GitHub](https://github.com/jeremylong/DependencyCheck)
+* [Gradle Source](https://github.com/jeremylong/dependency-check-gradle)
+* [SBT Source](https://github.com/albuch/sbt-dependency-check)
+* [Jenkins Source](https://github.com/jenkinsci/dependency-check-plugin)
+* [Ohloh](https://www.ohloh.net/p/dependencycheck)
+* [Bintray](https://bintray.com/jeremy-long/owasp)
+
+### Documentation
+
+* [Documentation (on GitHub)](https://jeremylong.github.io/DependencyCheck/)
+
+### Mailing List
+
+* [Subscribe](mailto:dependency-check+subscribe@googlegroups.com)
+* [Post](mailto:dependency-check@googlegroups.com)
+* [Archived Posts](https://groups.google.com/forum/#!forum/dependency-check)
+
+### Presentation
+
+* [dependency-check (PDF)](https://jeremylong.github.io/DependencyCheck/general/dependency-check.pdf)
+* [dependency-check (PPTX)](https://jeremylong.github.io/DependencyCheck/general/dependency-check.pptx)
+
+### Licensing
+
+[Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
