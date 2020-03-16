@@ -9,11 +9,11 @@
 
 ### Downloads
 
-Version 5.3.0
-* [Command Line](https://dl.bintray.com/jeremy-long/owasp/dependency-check-5.3.0-release.zip)
-* [Ant Task](https://dl.bintray.com/jeremy-long/owasp/dependency-check-ant-5.3.0-release.zip)
-* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C5.3.0%7Cmaven-plugin)
-* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C5.3.0%7Cgradle-plugin)
+Version 5.3.1
+* [Command Line](https://dl.bintray.com/jeremy-long/owasp/dependency-check-5.3.1-release.zip)
+* [Ant Task](https://dl.bintray.com/jeremy-long/owasp/dependency-check-ant-5.3.1-release.zip)
+* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C5.3.1%7Cmaven-plugin)
+* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C5.3.1%7Cgradle-plugin)
 * [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
 
 Other Plugins
