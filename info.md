@@ -9,11 +9,11 @@
 
 ### Downloads
 
-Version 6.1.6
-* [Command Line](https://github.com/jeremylong/DependencyCheck/releases/download/v6.1.6/dependency-check-6.1.6-release.zip)
-* [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v6.1.6/dependency-check-ant-6.1.6-release.zip)
-* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C6.1.6%7Cmaven-plugin)
-* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C6.1.6%7Cgradle-plugin)
+Version 6.2.0
+* [Command Line](https://github.com/jeremylong/DependencyCheck/releases/download/v6.2.0/dependency-check-6.2.0-release.zip)
+* [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v6.2.0/dependency-check-ant-6.2.0-release.zip)
+* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C6.2.0%7Cmaven-plugin)
+* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C6.2.0%7Cgradle-plugin)
 * [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
 
 Other Plugins
