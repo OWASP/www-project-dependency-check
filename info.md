@@ -1,3 +1,5 @@
+[![OWASP 20th Anniversary Image](assets/images/OWASP-20th.jpeg)](https://20thanniversary.owasp.org/)
+
 ### Project Classification
 
 ![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
