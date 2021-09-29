@@ -1,5 +1,3 @@
-[![OWASP 20th Anniversary Image](assets/images/OWASP-20th.jpeg)](https://20thanniversary.owasp.org/)
-
 ### Project Classification
 
 ![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
@@ -11,11 +9,11 @@
 
 ### Downloads
 
-Version 6.3.1
-* [Command Line](https://github.com/jeremylong/DependencyCheck/releases/download/v6.3.1/dependency-check-6.3.1-release.zip)
-* [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v6.3.1/dependency-check-ant-6.3.1-release.zip)
-* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C6.3.1%7Cmaven-plugin)
-* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C6.3.1%7Cgradle-plugin)
+Version 6.3.2
+* [Command Line](https://github.com/jeremylong/DependencyCheck/releases/download/v6.3.2/dependency-check-6.3.2-release.zip)
+* [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v6.3.2/dependency-check-ant-6.3.2-release.zip)
+* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C6.3.2%7Cmaven-plugin)
+* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C6.3.2%7Cgradle-plugin)
 * [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
 
 Other Plugins
