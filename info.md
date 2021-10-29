@@ -14,7 +14,7 @@ Version 6.4.1
 * [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v6.4.1/dependency-check-ant-6.4.1-release.zip)
 * [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C6.4.1%7Cmaven-plugin)
 * [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C6.4.1%7Cgradle-plugin)
-* [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
+* [Mac Homebrew](https://formulae.brew.sh/formula/dependency-check)
 
 Other Plugins
 * [Jenkins Plugin](https://plugins.jenkins.io/dependency-check-jenkins-plugin)
