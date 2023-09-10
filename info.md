@@ -41,7 +41,7 @@ Other Plugins
 
 ### Support
 
-* [Github Issues](https://github.com/jeremylong/DependencyCheck/issues)
+* [GitHub Issues](https://github.com/jeremylong/DependencyCheck/issues)
 
 ### Presentation
 
