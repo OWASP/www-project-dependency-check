@@ -9,7 +9,7 @@
 
 ### Downloads
 
-Version 10.0.2
+Version 10.0.4
 * [Command Line](https://github.com/jeremylong/DependencyCheck/releases/download/v10.0.2/dependency-check-10.0.2-release.zip)
 * [Ant Task](https://github.com/jeremylong/DependencyCheck/releases/download/v10.0.2/dependency-check-ant-10.0.2-release.zip)
 * [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C10.0.2%7Cmaven-plugin)
