@@ -12,8 +12,8 @@
 Version 12.1.8
 * [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-12.1.8-release.zip)
 * [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-ant-12.1.8-release.zip)
-* [Maven Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-maven%7C12.1.8%7Cmaven-plugin)
-* [Gradle Plugin](https://search.maven.org/#artifactdetails%7Corg.owasp%7Cdependency-check-gradle%7C12.1.8%7Cgradle-plugin)
+* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.1.8)
+* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.1.8)
 * [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
 
 Other Plugins
