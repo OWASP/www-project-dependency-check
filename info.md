@@ -38,8 +38,11 @@ Unofficial (Not endorsed by OWASP)
 
 ### Development
 
+Supported by the core dependency-check team:
 * [Source Code](https://github.com/dependency-check/DependencyCheck)
 * [Gradle Plugin Source](https://github.com/dependency-check/dependency-check-gradle)
+
+Community supported:
 * [Jenkins Plugin Source](https://github.com/jenkinsci/dependency-check-plugin)
 * [Azure DevOps Extension Source](https://github.com/dependency-check/azuredevops)
 
