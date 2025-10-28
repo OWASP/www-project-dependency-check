@@ -10,38 +10,38 @@
 ### Downloads
 
 Version 12.1.8
-* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-12.1.8-release.zip)
-* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-ant-12.1.8-release.zip)
-* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.1.8)
-* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.1.8)
-* [Mac Homebrew](https://brew.sh/):<br><code>brew update && brew install dependency-check</code>
+* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-12.1.8-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-cli/index.html))
+* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.1.8) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-maven/index.html))
+* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.1.8) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-gradle/index.html))
+* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-ant-12.1.8-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-ant/index.html))
+* [Mac Homebrew](https://formulae.brew.sh/formula/dependency-check)
+* [Container image](https://hub.docker.com/r/owasp/dependency-check)
 
-Other Plugins
-* [Jenkins Plugin](https://plugins.jenkins.io/dependency-check-jenkins-plugin)
-* [SBT Plugin](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22net.vonbuchholtz%22%20a%3A%22sbt-dependency-check%22)
-* [lein-dependency-check](https://github.com/livingsocial/lein-dependency-check)
+Unofficial (Not endorsed by OWASP)
+* [SBT Plugin](https://github.com/nMoncho/sbt-dependency-check)
+* [Leiningen Plugin](https://github.com/livingsocial/lein-dependency-check)
 
 ### Integrations
 
-* [SonarQube Plugin](https://github.com/SonarSecurityCommunity/dependency-check-sonar-plugin)
-* [Circle CI Orb](https://github.com/entur/owasp-orb)
-
-### External Resources
-
-* [GitHub](https://github.com/dependency-check/DependencyCheck)
-* [Gradle Source](https://github.com/dependency-check/dependency-check-gradle)
-* [SBT Source](https://github.com/albuch/sbt-dependency-check)
-* [Jenkins Source](https://github.com/jenkinsci/dependency-check-plugin)
-* [Ohloh](https://www.ohloh.net/p/dependencycheck)
-* [Bintray](https://bintray.com/jeremy-long/owasp)
+* [SonarQube Plugin](https://github.com/dependency-check/dependency-check-sonar-plugin)
+* [Jenkins Plugin](https://plugins.jenkins.io/dependency-check-jenkins-plugin)
+* [GitHub Actions](https://github.com/dependency-check/Dependency-Check_Action)
+* [Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=dependency-check.dependencycheck)
 
 ### Documentation
 
-* [Documentation (on GitHub)](https://dependency-check.github.io/DependencyCheck/)
+* [Documentation](https://dependency-check.github.io/DependencyCheck/)
 
 ### Support
 
 * [GitHub Issues](https://github.com/dependency-check/DependencyCheck/issues)
+
+### Development
+
+* [Source Code](https://github.com/dependency-check/DependencyCheck)
+* [Gradle Plugin Source](https://github.com/dependency-check/dependency-check-gradle)
+* [Jenkins Plugin Source](https://github.com/jenkinsci/dependency-check-plugin)
+* [Azure DevOps Extension Source](https://github.com/dependency-check/azuredevops)
 
 ### Presentation
 
