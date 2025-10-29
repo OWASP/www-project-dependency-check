@@ -57,7 +57,7 @@ repositories:
     description: Dependency check action test
   - name: dependency-check-jenkins-plugin
     url: https://github.com/jenkinsci/dependency-check-plugin
-    description: Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs).
+    description: Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs). This plugin is not maintained by the core dependency-check development team.
 tags:
   - dependency-check
   - sca
