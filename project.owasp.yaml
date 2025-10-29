@@ -31,8 +31,10 @@ license:
   - LGPL-3.0
   - MIT
 name: OWASP Dependency-Check
-pitch: Dependency-Check is a Software Composition Analysis (SCA) tool suite that identifies project dependencies and checks if there are any known, publicly
-  disclosed, vulnerabilities.
+pitch: >
+  Dependency-Check is a Software Composition Analysis (SCA) tool suite that
+  identifies project dependencies and checks if there are any known, publicly
+  disclosed vulnerabilities.
 repositories:
   - name: www-project-dependency-check
     url: https://github.com/OWASP/www-project-dependency-check
