@@ -46,7 +46,7 @@ repositories:
   - name: Dependency-Check_Action
     url: https://github.com/dependency-check/Dependency-Check_Action
     description: Github action to run dependency check
-  - name: DependencyCheck
+  - name: dependency-check
     url: https://github.com/dependency-check/DependencyCheck
     description: OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
   - name: DependencyCheck_Builder
