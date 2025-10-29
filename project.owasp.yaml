@@ -10,6 +10,13 @@ community:
   - name: dependency-check
     platform: slack
     url: https://owasp.slack.com/archives/C082E5KB4HJ
+documentation:
+  - https://dependency-check.github.io/DependencyCheck/
+downloads:
+  - https://github.com/dependency-check/DependencyCheck/releases
+  - https://plugins.gradle.org/plugin/org.owasp.dependencycheck
+  - https://central.sonatype.com/artifact/org.owasp/dependency-check-maven
+  - https://hub.docker.com/r/owasp/dependency-check
 leaders:
   - name: Jeremy Long
     email: jeremy.long@owasp.org
