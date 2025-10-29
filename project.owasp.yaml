@@ -27,10 +27,6 @@ repositories:
   - name: www-project-dependency-check
     url: https://github.com/OWASP/www-project-dependency-check
     description: OWASP Foundation Web Repository
-  - name: sbt-dependency-check
-    url: https://github.com/albuch/sbt-dependency-check
-    description: 'SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).
-      :rainbow:'
   - name: azuredevops
     url: https://github.com/dependency-check/azuredevops
     description: Dependency Check Azure DevOps Extension
