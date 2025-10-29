@@ -61,7 +61,7 @@ repositories:
     description: Nightly builder that produces an image with updated DB
   - name: dependency-check-github-action-test
     url: https://github.com/dependency-check/DependencyCheck_Test
-    description: Dependency check action test
+    description: Test repo for the GitHub Action
   - name: dependency-check-jenkins-plugin
     url: https://github.com/jenkinsci/dependency-check-plugin
     description: Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs). (community-maintained)
