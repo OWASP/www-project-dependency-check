@@ -24,8 +24,7 @@ leaders:
 level: 4
 license:
   - Apache-2.0
-  - EUPL-1.2
-  - GPL-3.0
+  - LGPL-3.0-only
   - MIT
 name: OWASP Dependency-Check
 pitch: Dependency-Check is a Software Composition Analysis (SCA) tool suite that identifies project dependencies and checks if there are any known, publicly
