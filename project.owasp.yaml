@@ -49,7 +49,7 @@ repositories:
   - name: dependency-check
     url: https://github.com/dependency-check/DependencyCheck
     description: OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-  - name: DependencyCheck_Builder
+  - name: dependency-check-github-action-image-builder
     url: https://github.com/dependency-check/DependencyCheck_Builder
     description: It builds a dependency check image with the updated database every night
   - name: DependencyCheck_Test
