@@ -48,7 +48,7 @@ repositories:
     changelog: https://github.com/dependency-check/dependency-check-gradle/releases
   - name: dependency-check-sonar-plugin
     url: https://github.com/dependency-check/dependency-check-sonar-plugin
-    description: Integrates Dependency-Check reports into SonarQube. This plugin is not maintained by the core dependency-check development team.
+    description: Integrates Dependency-Check reports into SonarQube (community-maintained)
   - name: dependency-check-github-action
     url: https://github.com/dependency-check/Dependency-Check_Action
     description: GitHub Action to run dependency-check
