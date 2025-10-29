@@ -41,7 +41,7 @@ repositories:
     description: OWASP Foundation Web Repository
   - name: dependency-check-azure-devops-extension
     url: https://github.com/dependency-check/azuredevops
-    description: Dependency Check Azure DevOps Extension. This extension is not maintained by the core dependency-check development team.
+    description: Dependency Check Azure DevOps Extension (community-maintained)
   - name: dependency-check-gradle
     url: https://github.com/dependency-check/dependency-check-gradle
     description: The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for
