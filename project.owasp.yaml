@@ -42,7 +42,7 @@ repositories:
       known, published vulnerabilities.
   - name: dependency-check-sonar-plugin
     url: https://github.com/dependency-check/dependency-check-sonar-plugin
-    description: Integrates Dependency-Check reports into SonarQube
+    description: Integrates Dependency-Check reports into SonarQube. This plugin is not maintained by the core dependency-check development team.
   - name: dependnecy-check-github-action
     url: https://github.com/dependency-check/Dependency-Check_Action
     description: Github action to run dependency check
