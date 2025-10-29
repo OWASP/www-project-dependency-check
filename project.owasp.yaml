@@ -52,7 +52,7 @@ repositories:
   - name: dependency-check-github-action-image-builder
     url: https://github.com/dependency-check/DependencyCheck_Builder
     description: It builds a dependency check image with the updated database every night
-  - name: DependencyCheck_Test
+  - name: dependency-check-github-action-test
     url: https://github.com/dependency-check/DependencyCheck_Test
     description: Dependency check action test
   - name: dependency-check-plugin
