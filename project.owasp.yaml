@@ -5,8 +5,12 @@ community:
   - name: proj-dependency-check
     platform: slack
     url: https://owasp.slack.com/archives/C2FTJJ26N
-    description: channel for the https://www.owasp.org/index.php/OWASP_Dependency_Check project - For general questions with the tool, check out the GitHub Discussions
-      list https://github.com/dependency-check/DependencyCheck/discussions. To report issues, please submit a GitHub issue: https://github.com/dependency-check/DependencyCheck/issues.
+    description: >
+      Channel for OWASP Dependency-Check.
+      For general questions, use GitHub Discussions:
+      https://github.com/dependency-check/DependencyCheck/discussions
+      To report issues, open a GitHub issue:
+      https://github.com/dependency-check/DependencyCheck/issues
   - name: dependency-check
     platform: slack
     url: https://owasp.slack.com/archives/C082E5KB4HJ
