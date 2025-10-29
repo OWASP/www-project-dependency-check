@@ -33,7 +33,7 @@ repositories:
   - name: www-project-dependency-check
     url: https://github.com/OWASP/www-project-dependency-check
     description: OWASP Foundation Web Repository
-  - name: azuredevops
+  - name: dependency-check-azure-devops-extension
     url: https://github.com/dependency-check/azuredevops
     description: Dependency Check Azure DevOps Extension
   - name: dependency-check-gradle
