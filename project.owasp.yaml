@@ -1,0 +1,75 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: proj-dependency-check
+    platform: slack
+    url: https://owasp.slack.com/archives/C2FTJJ26N
+    description: >
+      Channel for OWASP Dependency-Check.
+      For general questions, use GitHub Discussions:
+      https://github.com/dependency-check/DependencyCheck/discussions
+      To report issues, open a GitHub issue:
+      https://github.com/dependency-check/DependencyCheck/issues
+  - name: dependency-check
+    platform: slack
+    url: https://owasp.slack.com/archives/C082E5KB4HJ
+documentation:
+  - https://dependency-check.github.io/DependencyCheck/
+downloads:
+  - https://github.com/dependency-check/DependencyCheck/releases
+  - https://plugins.gradle.org/plugin/org.owasp.dependencycheck
+  - https://central.sonatype.com/artifact/org.owasp/dependency-check-maven
+  - https://hub.docker.com/r/owasp/dependency-check
+leaders:
+  - name: Jeremy Long
+    email: jeremy.long@owasp.org
+    github: jeremylong
+level: 4
+license:
+  - Apache-2.0
+  - LGPL-3.0
+  - MIT
+name: OWASP Dependency-Check
+pitch: >
+  Dependency-Check is a Software Composition Analysis (SCA) tool suite that
+  identifies project dependencies and checks if there are any known, publicly
+  disclosed vulnerabilities.
+repositories:
+  - name: www-project-dependency-check
+    url: https://github.com/OWASP/www-project-dependency-check
+    description: OWASP Foundation Web Repository
+  - name: dependency-check-azure-devops-extension
+    url: https://github.com/dependency-check/azuredevops
+    description: Dependency Check Azure DevOps Extension (community-maintained)
+  - name: dependency-check-gradle
+    url: https://github.com/dependency-check/dependency-check-gradle
+    description: The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.
+    changelog: https://github.com/dependency-check/dependency-check-gradle/releases
+  - name: dependency-check-sonar-plugin
+    url: https://github.com/dependency-check/dependency-check-sonar-plugin
+    description: Integrates Dependency-Check reports into SonarQube (community-maintained)
+  - name: dependency-check-github-action
+    url: https://github.com/dependency-check/Dependency-Check_Action
+    description: GitHub Action to run dependency-check
+  - name: dependency-check
+    url: https://github.com/dependency-check/DependencyCheck
+    description: OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+    changelog: https://github.com/dependency-check/DependencyCheck/blob/main/CHANGELOG.md
+  - name: dependency-check-github-action-image-builder
+    url: https://github.com/dependency-check/DependencyCheck_Builder
+    description: Nightly builder that produces an image with updated DB
+  - name: dependency-check-github-action-test
+    url: https://github.com/dependency-check/DependencyCheck_Test
+    description: Test repo for the GitHub Action
+  - name: dependency-check-jenkins-plugin
+    url: https://github.com/jenkinsci/dependency-check-plugin
+    description: Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs). (community-maintained)
+tags:
+  - dependency-check
+  - sca
+  - cpe
+  - purl
+  - vulnerability
+type: tool
+website: https://owasp.org/www-project-dependency-check
