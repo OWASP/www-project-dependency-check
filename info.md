@@ -9,11 +9,11 @@
 
 ### Downloads
 
-Version 12.1.8
-* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-12.1.8-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-cli/index.html))
-* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.1.8) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-maven/index.html))
-* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.1.8) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-gradle/index.html))
-* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.8/dependency-check-ant-12.1.8-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-ant/index.html))
+Version 12.1.9
+* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.9/dependency-check-12.1.9-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-cli/index.html))
+* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.1.9) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-maven/index.html))
+* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.1.9) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-gradle/index.html))
+* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.1.9/dependency-check-ant-12.1.9-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-ant/index.html))
 * [Mac Homebrew](https://formulae.brew.sh/formula/dependency-check)
 * [Container image](https://hub.docker.com/r/owasp/dependency-check)
 
@@ -22,6 +22,8 @@ Unofficial (Not endorsed by OWASP)
 * [Leiningen Plugin](https://github.com/livingsocial/lein-dependency-check)
 
 ### Integrations
+
+Note that all of these integrations are community driven and are not maintained by the core ODC team:
 
 * [SonarQube Plugin](https://github.com/dependency-check/dependency-check-sonar-plugin)
 * [Jenkins Plugin](https://plugins.jenkins.io/dependency-check-jenkins-plugin)
