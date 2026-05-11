@@ -9,11 +9,10 @@
 
 ### Downloads
 
-Version 12.2.0
-* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/download/v12.2.0/dependency-check-12.2.0-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-cli/index.html))
-* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven/12.2.0) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-maven/index.html))
-* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck/12.2.0) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-gradle/index.html))
-* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/download/v12.2.0/dependency-check-ant-12.2.0-release.zip) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-ant/index.html))
+* [Command Line](https://github.com/dependency-check/DependencyCheck/releases/latest) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-cli/index.html))
+* [Maven Plugin](https://central.sonatype.com/artifact/org.owasp/dependency-check-maven) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-maven/index.html))
+* [Gradle Plugin](https://plugins.gradle.org/plugin/org.owasp.dependencycheck) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-gradle/index.html))
+* [Ant Task](https://github.com/dependency-check/DependencyCheck/releases/latest) ([docs](https://dependency-check.github.io/DependencyCheck/dependency-check-ant/index.html))
 * [Mac Homebrew](https://formulae.brew.sh/formula/dependency-check)
 * [Container image](https://hub.docker.com/r/owasp/dependency-check)
 
